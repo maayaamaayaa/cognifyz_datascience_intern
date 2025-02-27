@@ -38,21 +38,3 @@ Feature Engineering.
 
 Extracting additional features from the existing columns, such as the length of the restaurant name or address. Creating new features like "Has Table Booking" or "Has Online Delivery" by encoding categorical variables.
 
-Level-3 Task-1
-Predictive Modeling.
-
-Building a regression model to predict the aggregate rating of a restaurant based on available features. Splitting the dataset into training and testing sets and evaluating the model's performance using appropriate metrics. Experiment with different algorithms (e.g.,linear regression, decision trees, random forest) and comparing their performance.
-
-Level-3 Task-2
-Customer Preference Analysis.
-
-Analyzing the relationship between the type of cuisine and the restaurant's rating. Identifying the most popular cuisines among customers based on the number of votes. Determining if there are any specific cuisines that tend to receive higher ratings.
-
-Level-3 Task-3
-Data Visualization.
-
-Creating visualizations to represent the distribution of ratings using different charts (histogram, bar plot, etc.). Comparing the average ratings of different cuisines or cities using appropriate visualizations. Visualizing the relationship between various features and the target variable to gain insights.
-
-You can Reach Me or Find the Each and Every Task Videos here: https://www.linkedin.com/in/saiharsha3377/
-
-Thanks to COGNIFYZ Technologies for providing this opportunity❤️.
